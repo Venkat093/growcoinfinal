@@ -113,13 +113,18 @@ button :hover {
 		font-size: 16px;
 		grid-template-columns: 1fr 1fr;
 	}
+
 	.image-container {
 		position: absolute;
 		right: -10%;
 		top: 30%;
 	}
-	.image img {
+	/* .image img {
 		height: 10rem;
+	} */
+
+	.image img {
+		display: none;
 	}
 	.ellipse-container .ellipse {
 		height: 6rem;
