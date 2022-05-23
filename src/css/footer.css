@@ -1,0 +1,12 @@
+.footer-top {
+	background-color: rgb(216, 0, 238);
+	color: azure;
+	margin-top: 10%;
+	padding: 2rem 2rem;
+}
+.footer-content {
+	color: azure;
+}
+.footer-bottom {
+	padding: 1rem 1rem;
+}

@@ -1,0 +1,30 @@
+.document {
+	padding: 2rem 2rem;
+}
+
+.but-e {
+	background-color: rgb(216, 0, 238);
+	padding: 15px;
+	gap: 1em !important;
+	border: none;
+	color: azure;
+}
+.but-o {
+	background-color: rgb(239, 201, 132);
+	padding: 15px;
+	border: none;
+	color: azure;
+}
+
+@media screen and (min-width: 280px) and (max-width: 1080px) {
+	.but-e {
+		background-color: rgb(216, 0, 238);
+		padding: 15px;
+		width: 40%;
+	}
+	.but-o {
+		background-color: rgb(239, 201, 132);
+		padding: 15px;
+		width: 40%;
+	}
+}

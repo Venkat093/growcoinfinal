@@ -1,0 +1,20 @@
+.features-title {
+	/* background-color: blanchedalmond;
+	display: flex;
+	justify-content: center;
+	padding: 10px 10px 10px 10px;
+	color: aqua; */
+	background-color: #d800ee;
+	color: azure;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+}
+.features {
+	padding: -2rem -4rem !important;
+	background-color: bisque;
+	min-height: 60vh;
+}
+.feature-row {
+	padding-bottom: 30px;
+}
